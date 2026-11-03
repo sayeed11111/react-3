@@ -1,0 +1,1 @@
+ export const API = "https://lab.marsit.uz/media/project_images/examples/1679/exsam.json";
